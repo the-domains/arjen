@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Google Ventures Startup Lab | GV partner Rick Klau covers the value of setting objectives and key results (OKRs) and how this has been done at Google since 1999. Understand the key attributes of effective OKRs and how to apply them in your own organization.'
-datePublished: '2016-02-24T21:28:12.084Z'
-dateModified: '2016-02-24T21:26:49.020Z'
+datePublished: '2016-02-24T21:29:05.943Z'
+dateModified: '2016-02-24T21:28:19.737Z'
 title: 'OKRs: Objectives and Key Results'
 author: []
 sourcePath: _posts/2016-02-24-okrs-objectives-and-key-results.md
