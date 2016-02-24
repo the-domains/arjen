@@ -1,0 +1,28 @@
+name: arjen
+favicon: null
+layout_spectrum: 0.060281171929091215
+typography_spectrum: 0.5301503210794181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.19392120349220932
+  lightness: 0.4413423475343734
+  saturation: 0.4763571822550148
+  rhythmicContrast: 0.4460837815422565
+purpose: []
