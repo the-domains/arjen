@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[arjen]]></title>
         <description><![CDATA[arjen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/arjen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 10:41:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 10:41:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/arjen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[OKRs: Objectives and Key Results]]></title>
             <description><![CDATA[<article><h1>OKRs: Objectives and Key Results</h1><p>John Doerr originally presented OKRs to Google’s leadership in 1999 when Google was less than a year old, and they’ve been in use ever since. OKRs are about the company’s goals and how each employee contributes to those goals.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ae3c98-2a0f-4ebb-b46a-d7ea0bf0e4e8.jpg"></article>]]></description>
-            <link>undefinedokrs-objectives-and-key-results/index.html</link>
+            <link>https://thegrid.ai/arjen/okrs-objectives-and-key-results/index.html</link>
             <guid isPermaLink="false">45b7d5e0-d6d7-47d4-ab6c-cfacb0aa892f</guid>
-            <pubDate>Sat, 05 Mar 2016 10:40:27 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 10:37:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
