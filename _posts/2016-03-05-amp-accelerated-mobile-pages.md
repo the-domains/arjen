@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: AMP is a HTML/CSS variant with a JavaScript framwork optimized for fast loading mobile content
-datePublished: '2016-03-05T10:56:07.806Z'
-dateModified: '2016-03-05T10:55:59.952Z'
+datePublished: '2016-03-05T11:06:05.443Z'
+dateModified: '2016-03-05T10:57:08.092Z'
 title: "AMP:\_Accelerated Mobile Pages"
 author: []
 sourcePath: _posts/2016-03-05-amp-accelerated-mobile-pages.md
