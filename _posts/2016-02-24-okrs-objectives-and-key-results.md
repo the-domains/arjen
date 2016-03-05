@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The value of setting objectives and key results (OKRs).  Understand the key attributes of effective OKRs and how to apply them in your own organization.
-datePublished: '2016-03-05T10:37:26.781Z'
-dateModified: '2016-03-05T10:37:15.562Z'
+datePublished: '2016-03-05T11:05:59.476Z'
+dateModified: '2016-03-05T11:05:46.868Z'
 title: 'OKRs: Objectives and Key Results'
 author: []
 sourcePath: _posts/2016-02-24-okrs-objectives-and-key-results.md
@@ -34,5 +34,7 @@ Here are a few keys to what make OKRs work
 * The**"sweet spot" for an OKR grade is .6 --- .7**; if someone consistently gets 1.0, their OKRs aren't ambitious enough.
 * **Low grades shouldn't be punished**; see them as data to help refine the next quarter's OKRs.
 * **OKRs are not synonymous with employee evaluations**. Performance evaluations --- which are entirely about evaluating how an employee performed in a given period --- should be independent from their OKRs. 
+
+Google Startup Lab published an 80 minutes long workshop on Youtube
 
 [0]: http://www.kpcb.com/partner/john-doerr
